@@ -1,6 +1,6 @@
 import React from "react";
 
-import introVideo from "./res/media/videos/introScene/720p30/intro.mp4";
+import introVideo from "./res/media/videos/FourierOfS/1440p60/FourierOfS.mp4";
 
 function App() {
   return (
