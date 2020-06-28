@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.62b01a67.chunk.js",
-    "main.js.map": "/static/js/main.62b01a67.chunk.js.map",
+    "main.js": "/static/js/main.2abdfe77.chunk.js",
+    "main.js.map": "/static/js/main.2abdfe77.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1ba42e3a.js",
     "runtime-main.js.map": "/static/js/runtime-main.1ba42e3a.js.map",
     "static/js/2.dff03921.chunk.js": "/static/js/2.dff03921.chunk.js",
     "static/js/2.dff03921.chunk.js.map": "/static/js/2.dff03921.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.84315da31007f20252cc16ecfc469950.js": "/precache-manifest.84315da31007f20252cc16ecfc469950.js",
+    "precache-manifest.f1c533dd7604fd5695a5ec5ec2f01fe1.js": "/precache-manifest.f1c533dd7604fd5695a5ec5ec2f01fe1.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.dff03921.chunk.js.LICENSE.txt": "/static/js/2.dff03921.chunk.js.LICENSE.txt",
     "static/media/FourierOfS.mp4": "/static/media/FourierOfS.e4879e4f.mp4",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.1ba42e3a.js",
     "static/js/2.dff03921.chunk.js",
-    "static/js/main.62b01a67.chunk.js"
+    "static/js/main.2abdfe77.chunk.js"
   ]
 }
