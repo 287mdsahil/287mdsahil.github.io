@@ -37,7 +37,7 @@ function AboutMeTextShort(props) {
         Hi,
         <br />I am <span style={{ color: "#dddddd" }}>Sahil</span>
       </h1>
-      <span>Open source Enthusiast</span>
+      <span>Open source enthusiast</span>
     </animated.div>
   );
 }
