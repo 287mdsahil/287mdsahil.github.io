@@ -340,8 +340,8 @@ class FourierOfTrebleClef(FourierOfPiSymbol):
 
 class FourierOfS(FourierOfTrebleClef):
     CONFIG = {
-        "height": 6,
-        "n_vectors": 30,
+        "height": 8,
+        "n_vectors": 1000,
     }
 
     def get_shape(self):
