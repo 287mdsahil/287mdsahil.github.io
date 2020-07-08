@@ -1,5 +1,6 @@
 import React from "react";
 import "../App.css";
+import "./page.css";
 import "bootstrap/dist/css/bootstrap.css";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
@@ -42,9 +43,9 @@ function AboutMeTextShort(props) {
   );
 }
 
-function HomePage() {
+function HomePage(props) {
   return (
-    <Container style={{ margin: "0 20%", padding: 0, maxWidth: "100vw" }}>
+    <Container className="page" style={{ margin: "auto 20%", padding: 0, maxWidth: "100vw" }}>
       <Row style={{ justifyContent: "center" }}>
         <ProfileImg />
         <AboutMeTextShort />

@@ -1,8 +1,15 @@
 body {
 	color: #bbbbbb !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.container {
+	margin: 0 !important;
+	padding: 0 !important;
 }
 
 .row {
-	margin: 15px !important;
-	padding: 15px !important;
+	margin: 0 !important;
+	padding: 0 !important;
 }
