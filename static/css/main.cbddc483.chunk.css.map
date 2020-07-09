@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACC,oBACD,CAEA,KACC,qBAAuB,CACvB,sBACD","file":"main.cbddc483.chunk.css","sourcesContent":["body {\n\tcolor: #bbbbbb !important;\n}\n\n.row {\n\tmargin: 15px !important;\n\tpadding: 15px !important;\n}\n"]}
